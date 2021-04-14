@@ -1,6 +1,6 @@
 ### Hi there, I'm Vinícius Hansen, AKA - Hanzenn or Xanzenn 👋
 
-- 👀 I’m interested in web programming, GUIs and task automation
+- 👀 I’m interested in web programming, GUIs, linux and task automation
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on projects related to task automation
 - 📫 You can contact me by my professional e-mail: vinicius.carlo.hansen@gmail.com
