@@ -1,5 +1,4 @@
 ### Hi there, I'm Vinícius Hansen, AKA - Hanzenn or Xanzenn 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xanzenn&label=Profile%20views&color=0e75b6&style=flat" alt="xanzenn" /> </p>
 
 - 👀 I’m interested in web programming, GUIs and task automation
 - 🌱 I’m currently learning Python
