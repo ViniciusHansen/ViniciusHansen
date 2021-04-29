@@ -1,8 +1,8 @@
 ### Hi there, I'm Vinícius Hansen, AKA Hanzenn or Xanzenn 👋
 
-- 👀 I’m interested in web programming, GUIs, linux and task automation
+- 👀 I’m interested in programming, Databases, linux and task automation
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on projects related to task automation
+- 💞️ I’m looking to collaborate on projects with python
 - 📫 You can contact me by my email
 
 ### Languages and Tools:
