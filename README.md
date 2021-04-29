@@ -3,7 +3,7 @@
 - 👀 I’m interested in web programming, GUIs, linux and task automation
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on projects related to task automation
-- 📫 You can contact me by my professional email: vinicius.carlo.hansen@gmail.com
+- 📫 You can contact me by my email
 
 ### Languages and Tools:
 
