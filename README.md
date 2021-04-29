@@ -1,4 +1,4 @@
-### Hi there, I'm Vinícius Hansen, AKA Hanzenn or Xanzenn 👋
+### Hi there, I'm Vinícius Hansen 👋
 
 - 👀 I’m interested in programming, Databases, linux and task automation
 - 🌱 I’m currently learning Python
