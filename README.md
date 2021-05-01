@@ -1,9 +1,10 @@
 ### Hi there, I'm Vinícius Hansen 👋
 
-- 👀 I’m interested in programming, Databases, linux and task automation
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on projects with python
-- 📫 You can contact me by my email
+- 👀 I’m interested in programming, databases, linux and open source
+- 🌱 Currently learning Python
+- 💞️ Looking for an internship to learn more about programming and information systems
+<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' url='https://www.linkedin.com/in/viniciushansen/' >
+</br>
 
 ### Languages and Tools:
 
