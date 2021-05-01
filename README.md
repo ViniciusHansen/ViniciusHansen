@@ -4,7 +4,6 @@
 - 🌱 Currently learning Python
 - 💞️ Looking for an internship to learn more about programming and information systems
 <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' url='https://www.linkedin.com/in/viniciushansen/' >
-</br>
 
 ### Languages and Tools:
 
