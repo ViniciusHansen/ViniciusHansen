@@ -3,13 +3,17 @@
 - 👀 I’m interested in programming, databases, linux and open source
 - 🌱 Currently learning Python
 - 💞️ Looking for an internship to learn more about programming and information systems
-- 👨‍💻 <a href="https://www.codewars.com/users/ViniciusHansen"> CodeWars Profile</a>
 
 <p align="left">
    <a href="https://www.linkedin.com/in/viniciushansen">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="vertical-align:top margin:6px 4px">
-  </a>
+   </a>
+   <a href="https://www.codewars.com/users/ViniciusHansen">
+      <img src="https://www.codewars.com/users/ViniciusHansen/badges/small">
+   </a>
 </p>
+
+
 
 ### Languages and Tools:
 
