@@ -2,7 +2,7 @@
   <h1> Hi there, I'm Vinícius Hansen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 </div>
 
-
+<!-- icons by https://github.com/devicons/devicon -->
 <div style="display: inline_block" align= "center"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img align="center" alt="C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
@@ -18,6 +18,7 @@
 </div>
 
 <br>
+
   <p align='center'> 
    <a href="https://www.codewars.com/users/ViniciusHansen"><img src="https://www.codewars.com/users/ViniciusHansen/badges/small" style="margin:6px 4px 6px 4px"></a>&nbsp;&nbsp;
   </p>
