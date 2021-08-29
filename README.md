@@ -8,7 +8,7 @@
 
 ### About Me
 - 🎓 Studying information systems at IFC - Araquari
-- 👀 I’m interested in programming, databases, linux and open source
+- 👀 I’m interested in programming, databases, linux and free software
 - 🌱 Currently learning Python and C
 - 💞️ Looking for an internship to learn more about the craft
 - 🌎 I live in Brazil, but I'm open for remote work
