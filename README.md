@@ -24,7 +24,7 @@
   </p>
 
 ### About Me
-- 🎓 Studying information systems at IFC - Araquari
+- 🎓 Studying Computer Science
 - 👀 I’m interested in programming, databases, linux and free software
 - 🌱 Currently learning Python and C
 - 💞️ Looking for an internship to learn more about the craft
