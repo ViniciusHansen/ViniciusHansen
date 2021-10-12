@@ -26,6 +26,6 @@
 ### About Me
 - 🎓 Studying Computer Science
 - 👀 I’m interested in programming, databases, linux and free software
-- 🌱 Currently learning Python and C
+- 🌱 Currently learning C++
 - 💞️ Looking for an internship to learn more about the craft
 - 🌎 I live in Brazil, but I'm open for remote work
