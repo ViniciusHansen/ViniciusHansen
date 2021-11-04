@@ -11,8 +11,10 @@
   <!--<img align="center" alt="JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">-->
   <img align="center" alt="Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-  <img align="center" alt="VSCode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+  <!-- <img align="center" alt="VSCode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">-->
+  <a href="https://github.com/ViniciusHansen/dotfiles">
   <img align="center" alt="Vim" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg">
+  </a>
   <a href="https://www.linkedin.com/in/viniciushansen">
   <img align="center" alt="LinkedIn" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" >
   </a>
