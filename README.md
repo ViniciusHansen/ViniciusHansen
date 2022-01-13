@@ -51,7 +51,7 @@
 - 🎓 Studying **Computer Science**
 - 👀 Interested in **programming**, **databases**, **linux** and **free software**
 - 🌱 Currently learning **C** and **Haskell**
-- 📔 Read my [blog](https://viniciushansen.github.io/blog/)
+- 📔 Read my [blog](https://viniciushansen.github.io/blog/) (portuguese)
 - 📨 Contact me: <a href="https://www.linkedin.com/in/viniciushansen"><img align="center" alt="LinkedIn" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" ></a>
 <!--
 - 💞️ Looking for an internship to learn more about the craft
